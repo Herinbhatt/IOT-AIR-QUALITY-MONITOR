@@ -38,4 +38,6 @@ This project describes an air quality monitor that utilizes an Arduino Nano micr
 
 - USB Cable: For programming the Arduino and providing power during development.
 
+  ![Image](https://github.com/user-attachments/assets/1b8ada83-de5a-4b2b-975f-f5d34f5b79c2)
+
 
