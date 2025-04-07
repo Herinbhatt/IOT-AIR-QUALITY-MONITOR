@@ -29,10 +29,10 @@ This project describes an air quality monitor that utilizes an Arduino Nano micr
 
 -Gas Sensor: A sensor capable of detecting the presence of certain air pollutants. For this project, we'll used MQ-2 sensor .
 
--LED : A visual indicator that will blink when the pollution index exceeds the selected threshold. 
+- LED : A visual indicator that will blink when the pollution index exceeds the selected threshold. 
 
--Breadboard: For easy prototyping and connections.
+- Breadboard: For easy prototyping and connections.
 
--Jumper Wires: For making electrical connections.
+- Jumper Wires: For making electrical connections.
 
--USB Cable: For programming the Arduino and providing power during development.
+- USB Cable: For programming the Arduino and providing power during development.
