@@ -50,3 +50,8 @@ This project describes an air quality monitor that utilizes an Arduino Nano micr
 
 - Arduino Nano: Connect to the power supply and the other components as described previously.
 
+# OUTPUT OF THE TASK
+
+- if the pollution Threshold is less than 500 then led will not blink
+  
+
