@@ -40,4 +40,13 @@ This project describes an air quality monitor that utilizes an Arduino Nano micr
 
   ![Image](https://github.com/user-attachments/assets/1b8ada83-de5a-4b2b-975f-f5d34f5b79c2)
 
+**circuit connnection**
+
+- Gas Sensor: Connect the heater pins to 5V and GND, and the analog output pin (AOUT) to an Arduino analog input pin (e.g., 
+  A0) via the load resistor connected to GND.
+
+- LED: Connect the anode (longer leg) through a current-limiting resistor to an Arduino digital output pin (e.g., D2), and 
+  the cathode (shorter leg) to GND.
+
+- Arduino Nano: Connect to the power supply and the other components as described previously.
 
