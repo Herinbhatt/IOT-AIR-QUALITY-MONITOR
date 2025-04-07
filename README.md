@@ -60,4 +60,6 @@ This project describes an air quality monitor that utilizes an Arduino Nano micr
 
 ![Image](https://github.com/user-attachments/assets/13e46166-7708-462d-9499-6212c8f57983)
 
+![Image](https://github.com/user-attachments/assets/75ef8119-0960-43c6-882d-2d97e692b6b2)
+
 
