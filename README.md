@@ -56,4 +56,8 @@ This project describes an air quality monitor that utilizes an Arduino Nano micr
   
 ![Image](https://github.com/user-attachments/assets/aab56499-090d-48f2-a2cc-3156e7e985c3)
 
+- If the pollution Threshold is more than 500 then led will blink
+- 
+![Image](https://github.com/user-attachments/assets/13e46166-7708-462d-9499-6212c8f57983)
+
 
