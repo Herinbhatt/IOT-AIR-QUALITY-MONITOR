@@ -37,3 +37,5 @@ This project describes an air quality monitor that utilizes an Arduino Nano micr
 - Jumper Wires: For making electrical connections.
 
 - USB Cable: For programming the Arduino and providing power during development.
+
+
